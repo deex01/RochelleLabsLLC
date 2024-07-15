@@ -3,12 +3,16 @@ An ecommerce site where you can customize your own t-shirt, deployed at https://
 
 # Launching server
 $ ./server
+
 $ npm install
+
 $ npm start
 
 # Launching client
 $ ./apparel-art-creator-v2-client
+
 $ npm install
+
 $ npm start
 
 # Things to know
