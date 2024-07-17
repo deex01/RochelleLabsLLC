@@ -1,5 +1,5 @@
 # RochelleLabsLLC
-An ecommerce site where you can customize your own t-shirt, deployed at https://rochellelabs.com
+An ecommerce site where you can customize your own t-shirt. This publication cannot be used, however the full site is deployed at https://rochellelabs.com. 
 
 # Launching server
 $ ./server
